@@ -27,8 +27,6 @@
 
 </div>
 
----
-
 ## Keyboard Bindings
 
 | Key     | Purpose                                                 |
