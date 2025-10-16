@@ -1,4 +1,5 @@
-# ardu-bike
+# ArduBike
+
 <div style="text-align:center; font-family:Segoe UI, Roboto, sans-serif; line-height:1.6;">
 
   <img 
@@ -13,7 +14,7 @@
   </p>
 
   <p style="margin:0;">
-    You can play the game on the Ardens Arduboy simulator here:<br>
+    Play the game on the <strong>Ardens Arduboy simulator</strong> here:<br>
     <a 
       href="https://tiberiusbrown.github.io/Ardens/player.html?file=https://raw.githubusercontent.com/elijahlmillard/ardu-bike/refs/heads/main/ardu_bike_1.0.0/ardu_bike_1.0.0.ino.leonardo.hex"
       style="color:#007acc; text-decoration:none; font-weight:bold;"
@@ -25,17 +26,20 @@
   </p>
 
 </div>
+
+---
+
 ## Keyboard Bindings
 
-|   Key  | Purpose                            |
-|:------:|------------------------------------|
-| Arrows | Arduboy: directional buttons       |
-|   A/Z  | Arduboy: A button                  |
-|  S/X/B | Arduboy: B button                  |
-|   F1   | (Desktop Debugger Only) Save screenshot of entire window |
-|   F2   | Save screenshot                    |
-|   F3   | Toggle GIF recording               |
-|   F4   | (Debugger only) Save snapshot      |
+| Key     | Purpose                                                 |
+|:-------:|---------------------------------------------------------|
+| Arrows  | Arduboy: directional buttons                            |
+| A / Z   | Arduboy: A button                                       |
+| S / X / B | Arduboy: B button                                     |
+| F1      | (Desktop Debugger Only) Save screenshot of entire window|
+| F2      | Save screenshot                                         |
+| F3      | Toggle GIF recording                                    |
+| F4      | (Debugger only) Save snapshot                           |
 |   F5   | (Debugger only) Pause/Continue     |
 |   F8   | Reset                              |
 |   F11  | Toggle fullscreen                  |
