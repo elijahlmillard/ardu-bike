@@ -15,7 +15,7 @@
   <p style="margin:0;">
     You can play the game on the Arduboy simulator here:<br>
     <a 
-      href="https://tiberiusbrown.github.io/Ardens/player.html?file=https://example.com/game.arduboy"
+      href="https://tiberiusbrown.github.io/Ardens/player.html?file=https://raw.githubusercontent.com/elijahlmillard/ardu-bike/refs/heads/main/ardu_bike_1.0.0/ardu_bike_1.0.0.ino.leonardo.hex"
       style="color:#007acc; text-decoration:none; font-weight:bold;"
       target="_blank"
       rel="noopener noreferrer"
